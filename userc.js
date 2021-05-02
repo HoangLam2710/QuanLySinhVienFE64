@@ -1,0 +1,1 @@
+console.log("chuc nang lam user");
