@@ -9,3 +9,7 @@ function del() {
     console.log('delete');
 
 }
+
+function devA () {
+    console.log('dev_A code chức năng tạo branch');
+}
