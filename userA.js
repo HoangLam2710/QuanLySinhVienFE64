@@ -1,0 +1,1 @@
+console.log("user a có chức năng xyz");
